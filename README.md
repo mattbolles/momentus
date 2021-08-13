@@ -1,4 +1,4 @@
-# momentus
+# Momentus
 Social media website designed to empower creatives by giving them robust tools and options on how to share and organize their work. Designed and developed using by a group of 6 students led by myself for my software development class. Front end developed using ReactJS / Bootstrap. Back end developed using ExpressJS.
 NOTE: Some features were not properly finished, so this project is still under construction.
 
